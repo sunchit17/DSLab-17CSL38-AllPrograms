@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543418009 source:d:\work\cprog\matchnre\main.c
+	<stdio.h>
+	<stdlib.h>
+
